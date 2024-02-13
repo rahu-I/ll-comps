@@ -22,6 +22,10 @@ module.exports = {
       grassGreen: "#24B556",
       lace: "#FFF5E2",
       yellow: "#FFBA38",
+      violet2: "#A97AEF",
+      gray3: "#E2E1DE",
+      gray4: "#605D58",
+      transparent: "transparent",
     },
     lineHeight: {
       1: "13.2px",
